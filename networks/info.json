@@ -1,1 +1,26 @@
 
+[{
+	chainId: "1",
+	name: "Ethereum",
+	rpc: "https://rpc.ankr.com/eth",
+	symbol: "ETH",
+	decimal: 18,
+	explore: "http://etherscan.com/",
+	muticall: "",
+	type: "evm",
+	selected: "1",
+	color: "#0693C2",
+	icon: "https://raw.githubusercontent.com/Black-Hole-Lab/assets/main/networks/icons/eth.png"
+}, {
+	chainId: "56",
+	name: "Binance Smart Chain",
+	rpc: "https://bsc-dataseed1.binance.org",
+	symbol: "BNB",
+	decimal: 18,
+	explore: "https://bscscan.com/",
+	muticall: "",
+	type: "evm",
+	selected: "0",
+	color: "#C99400",
+	icon: "https://raw.githubusercontent.com/Black-Hole-Lab/assets/main/networks/icons/bsc.png"
+}]
