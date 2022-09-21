@@ -1,0 +1,16 @@
+[{
+	name: "FlashBot",
+	rpc: "https://rpc.flashbots.net"
+}, {
+	name: "Cloudflare",
+	rpc: "https://cloudflare-eth.com"
+}, {
+	name: "Linkpool",
+	rpc: "https://main-rpc.linkpool.io"
+}, {
+	name: "Mycrypt",
+	rpc: "https://api.mycryptoapi.com/eth"
+}, {
+	name: "Mycrypt",
+	rpc: "https://api.mycryptoapi.com/eth"
+}]
