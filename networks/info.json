@@ -10,7 +10,7 @@
 	type: "evm",
 	selected: "1",
 	color: "#0693C2",
-	icon: "https://raw.githubusercontent.com/Black-Hole-Lab/assets/main/networks/icons/eth.png"
+	icon: "https://static.blackholelab.dev/icon/eth.png"
 }, {
 	chainId: "56",
 	name: "Binance Smart Chain",
@@ -21,6 +21,6 @@
 	muticall: "",
 	type: "evm",
 	selected: "0",
-	color: "#C99400",
-	icon: "https://raw.githubusercontent.com/Black-Hole-Lab/assets/main/networks/icons/bsc.png"
+	color: "#080630",
+	icon: "https://static.blackholelab.dev/icon/bsc.png"
 }]
