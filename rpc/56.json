@@ -1,0 +1,28 @@
+[{
+	name: "Binance 1",
+	rpc: "https://bsc-dataseed1.binance.org"
+}, {
+	name: "Binance 2",
+	rpc: "https://bsc-dataseed2.binance.org"
+}, {
+	name: "Binance 3",
+	rpc: "https://bsc-dataseed3.binance.org"
+}, {
+	name: "Defibit 1",
+	rpc: "https://bsc-dataseed1.defibit.io"
+}, {
+	name: "Defibit 2",
+	rpc: "https://bsc-dataseed2.defibit.io"
+}, {
+	name: "Defibit 3",
+	rpc: "https://bsc-dataseed3.defibit.io"
+}, {
+	name: "Ninicoin 1",
+	rpc: "https://bsc-dataseed1.ninicoin.io"
+}, {
+	name: "Ninicoin 2",
+	rpc: "https://bsc-dataseed2.ninicoin.io"
+}, {
+	name: "Ninicoin 3",
+	rpc: "https://bsc-dataseed3.ninicoin.io"
+}]
