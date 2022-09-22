@@ -19,6 +19,18 @@
         "url":"https://static.blackholelab.dev/token/1_5.json",
         "version":1
     },
+     {
+        "url":"https://static.blackholelab.dev/token/1_6.json",
+        "version":1
+    },
+     {
+        "url":"https://static.blackholelab.dev/token/1_7.json",
+        "version":1
+    },
+     {
+        "url":"https://static.blackholelab.dev/token/1_8.json",
+        "version":1
+    },
     {
         "url":"https://static.blackholelab.dev/token/56_1.json",
         "version":1
