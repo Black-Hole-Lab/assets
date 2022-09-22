@@ -1,49 +1,14 @@
 [{
-	url: "https://static.blackholelab.dev/token/1_1.json",
+	url: "https://static.blackholelab.dev/token/token_1_1.json",
 	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/1_2.json",
+},{
+	url: "https://static.blackholelab.dev/token/token_56_1.json",
 	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/1_3.json",
+},
+{
+	url: "https://static.blackholelab.dev/token/nft_1_1.json",
 	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/1_4.json",
-	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/1_5.json",
-	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/1_6.json",
-	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/1_7.json",
-	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/1_8.json",
-	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/56_1.json",
-	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/56_2.json",
-	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/56_3.json",
-	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/56_4.json",
-	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/56_5.json",
-	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/56_6.json",
-	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/56_7.json",
-	version: 1
-}, {
-	url: "https://static.blackholelab.dev/token/56_8.json",
+},{
+	url: "https://static.blackholelab.dev/token/nft_56_1.json",
 	version: 1
 }]
