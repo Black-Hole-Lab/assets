@@ -9,7 +9,7 @@
 	muticall: "",
 	type: "evm",
 	selected: "1",
-	color: "#0693C2",
+	color: "#3498db",
 	icon: "https://static.blackholelab.dev/icon/eth.png"
 }, {
 	chainId: "56",
@@ -21,6 +21,6 @@
 	muticall: "",
 	type: "evm",
 	selected: "0",
-	color: "#080630",
+	color: "#F0B90B",
 	icon: "https://static.blackholelab.dev/icon/bsc.png"
 }]
