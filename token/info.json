@@ -42,5 +42,25 @@
     {
         "url":"https://static.blackholelab.dev/token/56_3.json",
         "version":1
+    },
+    {
+        "url":"https://static.blackholelab.dev/token/56_4.json",
+        "version":1
+    },
+    {
+        "url":"https://static.blackholelab.dev/token/56_5.json",
+        "version":1
+    },
+    {
+        "url":"https://static.blackholelab.dev/token/56_6.json",
+        "version":1
+    },
+    {
+        "url":"https://static.blackholelab.dev/token/56_7.json",
+        "version":1
+    },
+    {
+        "url":"https://static.blackholelab.dev/token/56_8.json",
+        "version":1
     }
 ]
