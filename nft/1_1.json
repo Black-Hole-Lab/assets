@@ -1,0 +1,29 @@
+[{
+	"name": "MutantApeYachtClub",
+	"symbol": "MAYC",
+	"address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+	"chainId": 1,
+	"decimals": 1,
+	"logoURI": "https://img.seadn.io/files/7a06c8d41f9f5ecf12df7010155dd000.png?auto=format&fit=max&w=640"
+}, {
+	"name": "Azuki",
+	"symbol": "AZUKI",
+	"address": "0xed5af388653567af2f388e6224dc7c4b3241c544",
+	"chainId": 1,
+	"decimals": 1,
+	"logoURI": "https://img.seadn.io/files/5780abfeeaf1f96f6ff0b3829c1c9bbe.png?auto=format&fit=max&w=640"
+}, {
+	"name": "8PES",
+	"symbol": "8PES",
+	"address": "0xf7de31669f4f9386cf000ff6b412e405d0535b74",
+	"chainId": 1,
+	"decimals": 1,
+	"logoURI": "https://img.seadn.io/files/8b3af88d3e185eee56122f0e36d1e679.png?auto=format&fit=max&w=640"
+}, {
+	"name": "Doodles",
+	"symbol": "DOODLE",
+	"address": "0x8a90cab2b38dba80c64b7734e58ee1db38b8992e",
+	"chainId": 1,
+	"decimals": 1,
+	"logoURI": "https://img.seadn.io/files/68ebf8d1c321e2bacbf206005419ebfd.png?auto=format&fit=max&w=640"
+}]
