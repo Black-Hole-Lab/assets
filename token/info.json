@@ -1,7 +1,7 @@
 [{
-	url: "https://static.blackholelab.dev/token/token_1_1.json",
+	url: "https://static.blackholelab.dev/token/1_1.json",
 	version: 1
 },{
-	url: "https://static.blackholelab.dev/token/token_56_1.json",
+	url: "https://static.blackholelab.dev/token/56_1.json",
 	version: 1
 }]
