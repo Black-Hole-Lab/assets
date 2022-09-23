@@ -28,7 +28,7 @@
 		"symbol": "CAKE",
 		"decimals": 18,
 		"sorts":2,
-		"logoURI": "https://static.blackholelab.dev/icon/token/cacke.svg",
+		"logoURI": "https://static.blackholelab.dev/icon/token/cake.svg",
 		"info":"PancakeSwap is a yield farming project whereby users can get FLIP (LP token) for staking and get CAKE token as reward. CAKE holders can swap CAKE for SYRUP for additional incentivized staking.",
 		"links":"{website:'https://pancakeswap.org',twitter:'https://twitter.com/pancakeswap'}"
 	},
