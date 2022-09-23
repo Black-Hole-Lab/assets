@@ -8,7 +8,7 @@
 		"sorts":0,
 		"logoURI": "https://static.blackholelab.dev/icon/token/bnb.svg",
 		"info":"Binance is the biggest cryptocurrency exchange globally based on daily trading volume. Binance aims to bring cryptocurrency exchanges to the forefront of financial activity globally. The idea behind Binance’s name is to show this new paradigm in global finance — Binary Finance, or Binance.",
-		"links":"{website:\"https://www.binance.com\",twitter:\"https://twitter.com/binance\"}"
+		"links":"{website:'https://www.binance.com',twitter:'https://twitter.com/binance'}"
 	},
 	{
 		"chainId": 56,
@@ -19,7 +19,7 @@
 		"sorts":1,
 		"logoURI": "https://static.blackholelab.dev/icon/token/btc.svg",
 		"info":"",
-		"links":"{website:\"https://btc.com\",twitter:\"https://twitter.com/bitcoin\"}"
+		"links":"{website:'https://btc.com',twitter:'https://twitter.com/bitcoin'}"
 	},
 	{
 		"chainId": 56,
@@ -30,7 +30,7 @@
 		"sorts":2,
 		"logoURI": "https://static.blackholelab.dev/icon/token/cacke.svg",
 		"info":"PancakeSwap is a yield farming project whereby users can get FLIP (LP token) for staking and get CAKE token as reward. CAKE holders can swap CAKE for SYRUP for additional incentivized staking.",
-		"links":"{website:\"https://pancakeswap.org\",twitter:\"https://twitter.com/pancakeswap\"}"
+		"links":"{website:'https://pancakeswap.org',twitter:'https://twitter.com/pancakeswap'}"
 	},
 	{
 		"chainId": 56,
@@ -41,7 +41,7 @@
 		"sorts":3,
 		"logoURI": "https://static.blackholelab.dev/icon/token/xvs.svg",
 		"info":"Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol.",
-		"links":"{website:\"http://venus.io/\",twitter:\"https://twitter.com/VenusProtocol\"}"
+		"links":"{website:'http://venus.io/',twitter:'https://twitter.com/VenusProtocol'}"
 	},
 	{
 		"chainId": 56,
@@ -52,7 +52,7 @@
 		"sorts":4,
 		"logoURI": "https://static.blackholelab.dev/icon/token/usdc.svg",
 		"info":"USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
-		"links":"{websit:\"https://www.centre.io/\",twitter:\"https://twitter.com/centre_io\",whitepaper:\"https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf\"}"
+		"links":"{websit:'https://www.centre.io/',twitter:'https://twitter.com/centre_io',whitepaper:'https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf'}"
 	  },
 	  {
 		"chainId": 56,
@@ -63,6 +63,6 @@
 		"sorts":5,
 		"logoURI": "https://static.blackholelab.dev/icon/token/busd.svg",
 		"info":"Binance USD (BUSD) is a dollar-backed stablecoin issued and custodied by Paxos Trust Company, and regulated by the New York State Department of Financial Services. BUSD is available directly for sale 1:1 with USD on Paxos.com and will be listed for trading on Binance.",
-		"links":"{websit:\"http://www.paxos.com/busd\",twitter:\"https://twitter.com/PaxosGlobal\"}"
+		"links":"{websit:'http://www.paxos.com/busd',twitter:'https://twitter.com/PaxosGlobal'}"
 	  }
 ]
