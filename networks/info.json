@@ -10,11 +10,11 @@
 	type: "evm",
 	selected: "1",
 	color: "#3498db",
-	icon: "https://static.blackholelab.dev/icon/eth.png"
+	icon: "https://static.blackholelab.dev/icon/network/eth.png"
 }, {
 	chainId: "56",
 	name: "Binance Smart Chain",
-	rpc: "https://bsc-dataseed1.binance.org",
+	rpc: "https://bsc-dataseed1.defibit.io",
 	symbol: "BNB",
 	decimal: 18,
 	explore: "https://bscscan.com/",
@@ -22,5 +22,5 @@
 	type: "evm",
 	selected: "0",
 	color: "#F0B90B",
-	icon: "https://static.blackholelab.dev/icon/bsc.png"
+	icon: "https://static.blackholelab.dev/icon/network/bsc.png"
 }]

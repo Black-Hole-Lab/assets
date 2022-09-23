@@ -2,11 +2,11 @@
 	name: "FlashBot",
 	rpc: "https://rpc.flashbots.net"
 }, {
-	name: "Cloudflare",
-	rpc: "https://cloudflare-eth.com"
+	name: "Pokt",
+	rpc: "https://eth-rpc.gateway.pokt.network"
 }, {
-	name: "Linkpool",
-	rpc: "https://main-rpc.linkpool.io"
+	name: "Blastapi",
+	rpc: "https://eth-mainnet.public.blastapi.io"
 }, {
 	name: "Mycrypt",
 	rpc: "https://api.mycryptoapi.com/eth"

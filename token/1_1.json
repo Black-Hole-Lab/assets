@@ -1,210 +1,79 @@
 [
     {
       "chainId": 1,
-      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-      "name": "0x Protocol Token",
-      "symbol": "ZRX",
+      "address": "0x",
+      "name": "Ethereum",
+      "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      "sorts":0,
+      "logoURI": "https://static.blackholelab.dev/icon/token/eth.svg",
+      "info":"Ethereum is a decentralized open-source blockchain system that features its own cryptocurrency, Ether. ETH works as a platform for numerous other cryptocurrencies, as well as for the execution of decentralized smart contracts.",
+      "links":"{twitter:\"https://twitter.com/ethereum\",github:\"https://github.com/ethereum\",whitepaper:\"https://github.com/ethereum/wiki/wiki/White-Paper\"}"
     },
     {
       "chainId": 1,
-      "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-      "name": "Compound USD Coin",
-      "symbol": "cUSDC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
-      "name": "Compound Dai",
-      "symbol": "cDAI",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+      "sorts":1,
+      "logoURI": "https://static.blackholelab.dev/icon/token/dai.svg",
+      "info":"Multi-Collateral Dai, brings a lot of new and exciting features, such as support for new CDP collateral types and Dai Savings Rate.",
+      "links":"{twitter:\"https://twitter.com/MakerDAO\",github:\"https://etherscan.io/token/github.com/makerdao\",whitepaper:\"https://makerdao.com/whitepaper/\"}"
     },
     {
       "chainId": 1,
-      "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
-      "name": "Sai Stablecoin v1.0",
-      "symbol": "SAI",
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_SAI.svg"
+      "sorts":2,
+      "logoURI": "https://static.blackholelab.dev/icon/token/link.svg",
+      "info":"A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.",
+      "links":"{websit:\"https://chain.link/\",twitter:\"https://twitter.com/chainlink\",telegram:\"https://t.me/chainlinkofficial\",github:\"https://etherscan.io/token/github.com/makerdao\",whitepaper:\"https://link.smartcontract.com/whitepaper\"}"
     },
     {
       "chainId": 1,
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+      "sorts":4,
+      "logoURI": "https://static.blackholelab.dev/icon/token/usdt.svg",
+      "info":"Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
+      "links":"{websit:\"https://tether.to/\",twitter:\"https://twitter.com/Tether_to\",whitepaper:\"https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf\"}"
     },
     {
       "chainId": 1,
-      "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
-      "name": "Compound",
-      "symbol": "COMP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4",
-      "name": "Compound Collateral",
-      "symbol": "cCOMP",
-      "decimals": 8
-    },
-    {
-      "chainId": 1,
-      "address": "0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9",
-      "name": "Compound USDT",
-      "symbol": "cUSDT",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdt.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E",
-      "name": "Compound Basic Attention Token",
-      "symbol": "cBAT",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_bat.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
-      "name": "Basic Attention Token",
-      "symbol": "BAT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
-      "name": "Compound Ether",
-      "symbol": "cETH",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
-      "name": "Compound Sai",
-      "symbol": "cSAI",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_sai.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x158079Ee67Fce2f58472A96584A73C7Ab9AC95c1",
-      "name": "Compound Augur",
-      "symbol": "cREP",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_rep.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8
-    },
-    {
-      "chainId": 1,
-      "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
-      "name": "Reputation",
-      "symbol": "REP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_REP.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407",
-      "name": "Compound 0x",
-      "symbol": "cZRX",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_zrx.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4",
-      "name": "Compound Wrapped BTC",
-      "symbol": "cWBTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "name": "USD Coin USDC",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+      "sorts":5,
+      "logoURI": "https://static.blackholelab.dev/icon/token/usdc.svg",
+      "info":"USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
+      "links":"{websit:\"https://www.centre.io/\",twitter:\"https://twitter.com/centre_io\",whitepaper:\"https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf\"}"
     },
     {
       "chainId": 1,
-      "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
-      "name": "Kyber Network Crystal",
-      "symbol": "KNC",
-      "decimals": 18
-    },
-    {
-      "chainId": 1,
-      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
-      "name": "ChainLink Token",
-      "symbol": "LINK",
-      "decimals": 18
-    },
-    {
-      "chainId": 1,
-      "address": "0xFAce851a4921ce59e912d19329929CE6da6EB0c7",
-      "name": "Compound ChainLink",
-      "symbol": "cLINK",
-      "decimals": 8
-    },
-    {
-      "chainId": 1,
-      "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
-      "name": "PoolTogether Governance Token",
-      "symbol": "POOL",
+      "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+      "name": "Binance USD",
+      "symbol": "BUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_POOL.svg"
+      "sorts":6,
+      "logoURI": "https://static.blackholelab.dev/icon/token/busd.svg",
+      "info":"Binance USD (BUSD) is a dollar-backed stablecoin issued and custodied by Paxos Trust Company, and regulated by the New York State Department of Financial Services. BUSD is available directly for sale 1:1 with USD on Paxos.com and will be listed for trading on Binance.",
+      "links":"{websit:\"http://www.paxos.com/busd\",twitter:\"https://twitter.com/PaxosGlobal\"}"
     },
     {
       "chainId": 1,
-      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-      "name": "Uniswap",
-      "symbol": "UNI",
+      "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+      "name": "YFII.finance",
+      "symbol": "YFII",
       "decimals": 18,
-      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
-      "name": "Compound Uniswap",
-      "symbol": "cUNI",
-      "decimals": 8
-    },
-    {
-      "chainId": 1,
-      "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
-      "name": "TrueUSD",
-      "symbol": "TUSD",
-      "decimals": 18
-    },
-    {
-      "chainId": 1,
-      "address": "0x12392F67bdf24faE0AF363c24aC620a2f67DAd86",
-      "name": "Compound TrueUSD",
-      "symbol": "cTUSD",
-      "decimals": 8
+      "sorts":7,
+      "logoURI": "https://static.blackholelab.dev/icon/token/yfii.svg",
+      "info":"一个可以自动将您的加密资产投入获取高收益的DeFi聚合收益器。",
+      "links":"{websit:\"https://dfi.money/\",twitter:\"https://twitter.com/DfiMoney\"}"
     }
   ]
