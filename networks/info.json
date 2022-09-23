@@ -18,7 +18,7 @@
 	symbol: "BNB",
 	decimal: 18,
 	explore: "https://bscscan.com/",
-	muticall: "",
+	muticall: "0x6a7Ec6142AeCFCC9127f1ACcf07B2b7422ADBA62",
 	type: "evm",
 	selected: "0",
 	color: "#F0B90B",
