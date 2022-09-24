@@ -10,7 +10,9 @@
 	type: "evm",
 	selected: "1",
 	color: "#3498db",
-	icon: "https://static.blackholelab.dev/icon/network/eth.png"
+	icon: "https://static.blackholelab.dev/icon/network/eth.png",
+	gas:"http://192.168.0.7/gas/eth",
+	txs:"https://etherscan.com/token/{contract}?a={address}"
 }, {
 	chainId: "56",
 	name: "Binance Smart Chain",
@@ -18,9 +20,11 @@
 	symbol: "BNB",
 	decimal: 18,
 	explore: "https://bscscan.com/",
-	muticall: "0x804708de7af615085203fa2b18eae59c5738e2a9,0xd1132d68d95dE44afCADd5692F7f1F2F358C1074",
+	muticall: "0x804708de7af615085203fa2b18eae59c5738e2a9,0xe80f960a73add03B1bBbF0Bfff0B690456A202Ee",
 	type: "evm",
 	selected: "0",
 	color: "#F0B90B",
-	icon: "https://static.blackholelab.dev/icon/network/bsc.png"
+	icon: "https://static.blackholelab.dev/icon/network/bsc.png",
+	gas:"http://192.168.0.7/gas/bsc",
+	txs:"https://bscscan.com/token/{contract}?a={address}"
 }]
