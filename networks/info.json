@@ -22,7 +22,7 @@
 	symbol: "BNB",
 	decimal: 18,
 	explore: "https://bscscan.com/",
-	muticall: "0x804708de7af615085203fa2b18eae59c5738e2a9,0xe80f960a73add03B1bBbF0Bfff0B690456A202Ee",
+	muticall: "0x804708de7af615085203fa2b18eae59c5738e2a9,0xB796E7aDc8E55bE1c8672B62687A02cdEc68B255",
 	type: "evm",
 	selected: "0",
 	color: "#F0B90B",
