@@ -14,8 +14,6 @@
 	gasurl:"http://192.168.0.4/gas/eth",
 	gasprice:"5",
 	gaslimit:"21000",
-	maxgaslimit:"210000",
-	maxgasprice:"500",
 	txs:"https://etherscan.com/token/{contract}?a={address}"
 }, {
 	chainId: "56",
@@ -32,7 +30,5 @@
 	gasurl:"http://192.168.0.4/gas/bsc",
 	gasprice:"5",
 	gaslimit:"21000",
-	maxgaslimit:"210000",
-	maxgasprice:"500",
 	txs:"https://bscscan.com/token/{contract}?a={address}"
 }]
