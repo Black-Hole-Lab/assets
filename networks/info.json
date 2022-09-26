@@ -15,7 +15,7 @@
 	gasprice:"5",
 	gaslimit:"21000",
 	gastype:"eip1559",
-	txs:"https://etherscan.com/token/{contract}?a={address}",
+	txs:"https://etherscan.com/token/{contract}?a={address}"
 	
 }, {
 	chainId: "56",
