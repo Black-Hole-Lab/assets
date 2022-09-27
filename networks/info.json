@@ -15,6 +15,7 @@
 	gasprice:"5",
 	gaslimit:"21000",
 	gastype:"eip1559",
+	gasbase:"2",
 	txs:"https://etherscan.com/token/{contract}?a={address}"
 	
 }, {
@@ -33,5 +34,6 @@
 	gasprice:"5",
 	gaslimit:"21000",
 	gastype:"base",
+	gasbase:"2",
 	txs:"https://bscscan.com/token/{contract}?a={address}"
 }]
