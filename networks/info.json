@@ -11,12 +11,11 @@
 	selected: "1",
 	color: "#3498db",
 	icon: "https://static.blackholelab.dev/icon/network/eth.png",
-	gasurl:"http://192.168.0.4/gas/eth",
-	gasprice:"5",
+	gasurl:"http://8.219.149.218/gas/eth",
+	gasprice:"30",
 	gaslimit:"21000",
 	gastype:"eip1559",
-	gasbase:"2",
-	txs:"https://etherscan.com/token/{contract}?a={address}"
+	gasbase:"26"
 	
 }, {
 	chainId: "56",
@@ -30,10 +29,9 @@
 	selected: "0",
 	color: "#F0B90B",
 	icon: "https://static.blackholelab.dev/icon/network/bsc.png",
-	gasurl:"http://192.168.0.4/gas/bsc",
+	gasurl:"http://8.219.149.218/gas/bsc",
 	gasprice:"5",
 	gaslimit:"21000",
 	gastype:"base",
-	gasbase:"2",
-	txs:"https://bscscan.com/token/{contract}?a={address}"
+	gasbase:"0"
 }]
