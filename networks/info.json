@@ -33,5 +33,5 @@
 	gasprice:"5",
 	gaslimit:"21000",
 	gastype:"base",
-	gasbase:"0"
+	gasbase:"5"
 }]
