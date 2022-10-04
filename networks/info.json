@@ -19,7 +19,7 @@
 	
 }, {
 	chainId: "56",
-	name: "Binance Smart Chain",
+	name: "BNBChain",
 	rpc: "https://bsc-dataseed1.defibit.io",
 	symbol: "BNB",
 	decimal: 18,
