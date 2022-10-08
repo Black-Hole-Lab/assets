@@ -16,7 +16,8 @@
 	gaslimit:"21000",
 	gastype:"eip1559",
 	gasbase:"26",
-	sorts:0
+	sorts:0,
+	color:"#1969FF"
 	
 }, {
 	chainId: "56",
@@ -35,7 +36,8 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:1
+	sorts:1,
+	color:"#F0B90B"
 },{
 	chainId: "137",
 	name: "Polygon",
@@ -53,7 +55,8 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:2
+	sorts:2,
+	color:"#7B3FE4"
 },{
 	chainId: "100",
 	name: "Gnosis",
@@ -71,7 +74,8 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:3
+	sorts:3,
+	color:"#04795B"
 },{
 	chainId: "250",
 	name: "Fantom",
@@ -89,7 +93,8 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:4
+	sorts:4,
+	color:"#1969FF"
 },{
 	chainId: "66",
 	name: "OKXChain",
@@ -107,7 +112,8 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:5
+	sorts:5,
+	color:"#000000"
 },{
 	chainId: "43114",
 	name: "Avalanche",
@@ -125,7 +131,8 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:6
+	sorts:6,
+	color:"#E84142"
 },{
 	chainId: "42161",
 	name: "Arbitrum",
@@ -143,7 +150,8 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:7
+	sorts:7,
+	color:"#28A0F0"
 },{
 	chainId: "10",
 	name: "Optimism",
@@ -161,7 +169,8 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:8
+	sorts:8,
+	color:"#FF0420"
 },{
 	chainId: "1285",
 	name: "Moonriver",
@@ -179,7 +188,8 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:8
+	sorts:8,
+	color:"#53CBC8"
 },{
 	chainId: "1284",
 	name: "Moonbeam",
@@ -197,7 +207,8 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:9
+	sorts:9,
+	color:"#E1147B"
 },{
 	chainId: "42220",
 	name: "Cel",
@@ -215,7 +226,8 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:10
+	sorts:10,
+	color:"#35D07F"
 },{
 	chainId: "122",
 	name: "FUSE",
@@ -233,7 +245,8 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:11
+	sorts:11,
+	color:"#FFF16D"
 },{
 	chainId: "25",
 	name: "Cronos",
@@ -251,5 +264,6 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:12
+	sorts:12,
+	color:"#1E2022"
 }]
