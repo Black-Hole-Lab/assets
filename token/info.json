@@ -1,7 +1,19 @@
 [{
-	url: "https://static.blackholelab.dev/token/1_1.json",
+	url: "https://static.blackholelab.dev/token/1_hots.json",
 	version: 1
 },{
-	url: "https://static.blackholelab.dev/token/56_1.json",
+	url: "https://static.blackholelab.dev/token/56_hots.json",
+	version: 1
+},{
+	url: "https://static.blackholelab.dev/token/66_hots.json",
+	version: 1
+},{
+	url: "https://static.blackholelab.dev/token/100_hots.json",
+	version: 1
+},{
+	url: "https://static.blackholelab.dev/token/137_hots.json",
+	version: 1
+},{
+	url: "https://static.blackholelab.dev/token/43114s_hots.json",
 	version: 1
 }]

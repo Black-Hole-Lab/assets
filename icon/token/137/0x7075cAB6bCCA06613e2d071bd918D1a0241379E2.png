@@ -1,0 +1,157 @@
+<!DOCTYPE html><html lang="en-US"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"/><meta name="theme-color" content="#121216"/><title>Gains.trade | 404</title><meta property="og:url" content="https://gains.trade/404"/><link rel="canonical" href="https://gains.trade/404"/><meta name="robots" content="noindex"/><meta name="next-head-count" content="7"/><meta charSet="utf-8"/><meta property="og:type" content="website"/><meta property="og:image" content="images/og-image.jpg"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@GainsNetwork_io"/><meta name="twitter:creator" content="@GainsNetwork_io"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="true"/><link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png"/><link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png"/><style>
+
+            @font-face {
+              font-family: 'icomoon';
+              src:  url("https://d33wubrfki0l68.cloudfront.net/e160fa41998261771fad839e6d603f7dc3e2c141/13ec4/fonts/icomoon.eot");
+              src:  url("https://d33wubrfki0l68.cloudfront.net/e160fa41998261771fad839e6d603f7dc3e2c141/13ec4/fonts/icomoon.eot#iefix") format('embedded-opentype'),
+                url("https://d33wubrfki0l68.cloudfront.net/911fc133ccbcc876ecf58f09c7725a38e83f6148/e052b/fonts/icomoon.ttf") format('truetype'),
+                url("https://d33wubrfki0l68.cloudfront.net/0db6d7d91b154c5eb925f8b0d88693e852d971d0/b6b30/fonts/icomoon.woff") format('woff'),
+                url("https://d33wubrfki0l68.cloudfront.net/9204729946d268e301054cbcc1c54bfd108993ce/a6246/fonts/icomoon.svg#icomoon") format('svg');
+              font-weight: normal;
+              font-style: normal;
+              font-display: block;
+            }
+
+            .icon-close {
+              background: url("https://d33wubrfki0l68.cloudfront.net/e53e950eec475eb2fc048586de3bcea25d81f54b/43b11/images/close.png") no-repeat;
+              background-size: contain;
+              width: 40px;
+              height: 40px;
+            }
+
+            .icon-cog {
+              background: url("https://d33wubrfki0l68.cloudfront.net/78003bf85ed56150c9d1c834577537abb5f0571f/aac1c/images/icons/cog.png") no-repeat;
+              background-size: contain;
+              width: 24px;
+              height: 24px;
+            }
+            
+            .icon-left {
+              background: url("https://d33wubrfki0l68.cloudfront.net/7c7348c968a4d1b0949eedd204005c681b83f3e6/ca3d5/images/icons/arrow-left.png") no-repeat;
+              background-size: contain;
+              width: 32px;
+              height: 32px;
+            }
+
+            .icon-connect {
+              background: url("https://d33wubrfki0l68.cloudfront.net/6f9ed9158c45249275763edbed67488464adf199/1b8d4/images/connect-wallet.svg") no-repeat;
+              top: 2px;
+            }
+
+            .icon-buy {
+              background: url("https://d33wubrfki0l68.cloudfront.net/070873cd15325c434fd6b4f30ef840a02db307d2/08b34/images/buy-icon.svg") no-repeat;
+              top: 4px;
+            }
+
+            .icon-stats {
+              background: url("https://d33wubrfki0l68.cloudfront.net/15de27bd06a278656776e1f5a9b56cfa4984553c/03024/images/icon-stats.svg") no-repeat;
+              top: 8px;
+            }
+
+            .icon-user {
+              background: url("https://d33wubrfki0l68.cloudfront.net/22ab6990145e791770284efb807d572fa024c200/821ab/images/icon-user.svg") no-repeat;
+              top: 8px;
+            }
+
+            .icon-dai {
+              background: url("https://d33wubrfki0l68.cloudfront.net/91aad7dbccce4faf761ba928740575eb067cef01/7749a/images/icon-dai.svg") no-repeat;
+              top: 10px;
+            }
+
+            .icon-gns-white {
+              background: url("https://d33wubrfki0l68.cloudfront.net/ad4958496bbb171970df9e64bc87bf3fb2c87387/1a6b1/images/gains-white.png") no-repeat;
+              top: 4px;
+            }
+
+            .icon-copy {
+              background: url("https://d33wubrfki0l68.cloudfront.net/1f7186547f28ad592f001ba32468c209065ce32f/2c8a9/images/icon-copy.svg") no-repeat;
+            }
+
+            .icon-link {
+              background: url("https://d33wubrfki0l68.cloudfront.net/9d45683e8b6f8052b4e4a257a5de415008f4371a/a13aa/images/link.svg") no-repeat;
+              top: 2px;
+              margin-right: 7px;
+            }
+
+            .shared-trade {
+              width: 867px !important;
+              height: 522px;
+              padding: 50px 75px;
+              background: url("https://d33wubrfki0l68.cloudfront.net/72bb754f807af90121ddee0ea497f15709992ebc/a195c/images/background.jpg");
+            }
+
+            .icon-info {
+              background: url("https://d33wubrfki0l68.cloudfront.net/1d3c5d76ba0b49adc165da0b3aa679cd04cd686f/185d1/images/icon-info.svg") no-repeat;
+              width: 18px;
+              height: 18px;
+              top: 3px;
+              margin-right: 7px;
+            }            
+           
+            .your-trades .close-trade a,
+            .your-trades .close-trade span {
+              background: url("https://d33wubrfki0l68.cloudfront.net/e53e950eec475eb2fc048586de3bcea25d81f54b/43b11/images/close.png") no-repeat;
+              background-size: 100% 100%;
+              color: transparent;
+              width: 9px;
+              height: 9px;
+              display: inline-block;
+              line-height: 8px;
+              margin-left: 2px;
+            }
+            
+            .icon-share {
+              background: url("https://d33wubrfki0l68.cloudfront.net/7c51f19a0c5f8dda26a14a227573e24908c227d9/1a62f/images/icon-share.svg") no-repeat;
+              width: 18px;
+              height: 18px;
+              top: 3px;
+              margin-right: 7px;
+            }
+            
+            .share-trade-icon-button {
+              float: right;
+              position: absolute !important;
+              right: 0px;
+              top: -3px;
+            }
+            
+            .share-trade-icon-button .icon-share {
+              width: 16px !important;
+              height: 16px !important;
+            }   
+            </style><link rel="manifest" href="site.webmanifest"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><script id="baseHref" data-nscript="beforeInteractive">
+              (function () {
+                const { pathname } = window.location
+                const ipfsMatch = /.*\/Qm\w{44}\//.exec(pathname);
+                const base = document.createElement('base')
+
+                base.href = ipfsMatch ? ipfsMatch[0] : '/'
+                document.head.append(base)
+                window.baseHref = base.href;
+                window.isIpfs = ipfsMatch ? true : false;
+              })()</script><script id="theme-load" data-nscript="beforeInteractive">
+            (function() {
+              let storedTheme;
+              let storedLayout;
+              try {
+                storedTheme = localStorage.getItem('theme');
+                storedLayout = localStorage.getItem('layout');
+              } catch (err) {}
+
+              let themeInterval = setInterval(() => {
+                if (storedTheme && storedTheme !== 'dark') {
+                  document.body.classList.add(storedTheme + '-theme');
+                  clearInterval(themeInterval);
+                }
+              }, 1);
+              let layoutInterval = setInterval(() => {
+                if (storedLayout) {
+                  document.body.classList.add(storedLayout);
+                  clearInterval(layoutInterval);
+                }
+              }, 1);
+              window.onload = () => {
+                clearInterval(themeInterval);
+                clearInterval(layoutInterval);
+              };
+            })();</script><link rel="preload" href="./_next/static/css/fa77c72cdb628be3.css" as="style"/><link rel="stylesheet" href="./_next/static/css/fa77c72cdb628be3.css" data-n-g=""/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="./_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script><script src="./_next/static/chunks/webpack-79fd15390cfe9be7.js" defer=""></script><script src="./_next/static/chunks/framework-0ba0ddd33199226d.js" defer=""></script><script src="./_next/static/chunks/main-d3f6f1e689802fb1.js" defer=""></script><script src="./_next/static/chunks/pages/_app-9f59091c199fdc38.js" defer=""></script><script src="./_next/static/chunks/pages/404-85c71a0ddeaae80c.js" defer=""></script><script src="./_next/static/JkRRn1MMGRTjSmNm2Pv0O/_buildManifest.js" defer=""></script><script src="./_next/static/JkRRn1MMGRTjSmNm2Pv0O/_ssgManifest.js" defer=""></script><style data-href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">@font-face{font-family:'Lato';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USeww.woff) format('woff')}@font-face{font-family:'Lato';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHvxo.woff) format('woff')}@font-face{font-family:'Lato';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVeww.woff) format('woff')}@font-face{font-family:'Lato';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwaPGQ3q5d0N7w.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Lato';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Lato';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Lato';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wXiWtFCc.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Lato';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Lato';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}</style></head><body><div class="nk-wrap" id="root"><div id="__next"><header id="header" class="header-page"><div class="header-wrap"><div class="header-logo logo"><img src="https://d33wubrfki0l68.cloudfront.net/97a4502796612cc596284bfff3cff02445cd7841/e4f25/images/logo_nav.png" alt="logo" width="32" style="opacity:0.75"/><a class="NavLink_link__nORmN title Navbar_logoText__cSEOk" style="opacity:0.75">gTrade</a></div><div class="header-navbar"><nav class="header-menu" id="header-menu"><ul class="menu"><li class="menu-item"><a class="NavLink_link__nORmN menu-link" style="opacity:0.75">Trading</a></li><li class="menu-item"><a class="NavLink_link__nORmN menu-link" style="opacity:0.75">Referrals</a></li><li class="menu-item"><a class="menu-link" href="https://dune.xyz/unionepro/Everthing-Gains-Network" rel="noopener noreferrer" target="_blank"><span>Statistics</span><img src="https://d33wubrfki0l68.cloudfront.net/da5c85e3ae3c337db086d538c6a316ab9aa711ea/12b98/images/icons/external-link.png" class="Navbar_linkIcon__CcmK3"/></a></li><li class="menu-item"><a class="menu-link Navbar_link__RCmGs" href="https://gainsnetwork.io/pools" target="_blank" rel="noopener noreferrer"><span>Staking</span><img src="https://d33wubrfki0l68.cloudfront.net/da5c85e3ae3c337db086d538c6a316ab9aa711ea/12b98/images/icons/external-link.png" class="Navbar_linkIcon__CcmK3"/></a></li><li class="menu-item"><a class="menu-link Navbar_link__RCmGs" href="https://gainsnetwork.gitbook.io/" target="_blank" rel="noopener noreferrer"><span>Documentation</span><img src="https://d33wubrfki0l68.cloudfront.net/da5c85e3ae3c337db086d538c6a316ab9aa711ea/12b98/images/icons/external-link.png" class="Navbar_linkIcon__CcmK3"/></a></li></ul></nav></div><ul class="menu-btns"><li><button class="btn-2 not-connected Navbar_connectButton__Hd6LS"><span>Connect</span><span> Wallet</span><span class="icon-svg icon-connect"></span></button></li></ul><div class="Navbar_appSettingsToggleContainer__5hRoa"><button class="IconButton_button__xwbA2 IconButton_xl__b0RgB Navbar_appSettingsToggle__lWlS8" type="button"><span class="IconButton_content__vSqzw"><span class="icon-svg IconButton_icon__3rpq6 IconButton_iconSm__9PdjF icon-cog"></span></span></button></div><button class="Navbar_mobileMenuToggle__aW6PO"><span class="Navbar_mobileMenuIcon__Vq6l1"></span></button></div></header><div class="MainLayout_body__WhqQS"><main><div class="Fallback_container__Fijo6"><div class="Fallback_content__iNfei"><h2 class="Fallback_title__pp_hz">404</h2><h3 class="Fallback_subtitle__BY9N2">Oops!</h3><p class="Fallback_description__spMDZ">It looks like you’re trying to access a page that either has been deleted or never existed at all.</p><a class="NavLink_link__nORmN Fallback_redirect__xv3Yy" style="opacity:0.75">Return to Home</a></div><div class="Fallback_footer__F2C4A"></div></div></main></div><footer><div class="container"><p>gTrade is a product developed by<!-- --> <a class="gains" href="https://gainsnetwork.io">Gains Network</a>.</p><ul><li><a rel="noopener noreferrer" target="_blank" href="https://t.me/GainsNetwork"><em class="social-icon icon-telegram"></em></a></li><li><a rel="noopener noreferrer" target="_blank" href="https://twitter.com/GainsNetwork_io"><em class="social-icon icon-twitter"></em></a></li><li><a rel="noopener noreferrer" target="_blank" href="https://medium.com/gains-network"><em class="social-icon icon-medium"></em></a></li><li><a rel="noopener noreferrer" target="_blank" href="https://discord.com/invite/gains-network"><img class="reddit-icon" alt="discord" src="https://d33wubrfki0l68.cloudfront.net/3fd9caca647677d0cb750af75877f6fd63b18e97/55119/images/footer/discord.svg" width="35" height="35"/></a></li><li><a rel="noopener noreferrer" target="_blank" href="https://reddit.com/r/GainsNetwork"><img class="reddit-icon" alt="reddit" src="https://d33wubrfki0l68.cloudfront.net/da9553a18d828e389e47e0a748458a8aad9f533d/3df68/images/footer/reddit.svg" width="35" height="35"/></a></li><li><a rel="noopener noreferrer" target="_blank" href="https://defipulse.com"><img class="dfp-icon" alt="DeFiPulse" src="https://d33wubrfki0l68.cloudfront.net/3ad2085c9d37a2c30ae50e6678aad4790190061c/d7d15/images/footer/dfp.svg" width="29" height="34"/></a></li></ul></div></footer><div class="Toastify"></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{}},"page":"/404","query":{},"buildId":"JkRRn1MMGRTjSmNm2Pv0O","assetPrefix":".","nextExport":true,"autoExport":true,"isFallback":false,"scriptLoader":[{"id":"google-analytics","strategy":"afterInteractive","dangerouslySetInnerHTML":{"__html":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag() {\n              dataLayer.push(arguments);\n            }\n            gtag('js', new Date());\n\n            gtag('config', 'G-E4SWL672ZD');"}}]}</script></body></html>

@@ -1,0 +1,487 @@
+[{
+	"chainId": 137,
+	"address": "0x",
+	"name": "Polygon",
+	"symbol": "MATIC",
+	"decimals": 18,
+	"sorts": 0,
+	"logoURI": "https://static.blackholelab.dev/icon/network/pol.svg"
+},{
+	"chainId": 137,
+	"address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+	"name": "Anyswap",
+	"symbol": "ANY",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8.png"
+}, {
+	"chainId": 137,
+	"address": "0xFeD16c746CB5BFeD009730f9E3e6A673006105c7",
+	"name": "Digital Reserve Currency",
+	"symbol": "DRC",
+	"decimals": 0,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xFeD16c746CB5BFeD009730f9E3e6A673006105c7.png"
+}, {
+	"chainId": 137,
+	"address": "0x7075cAB6bCCA06613e2d071bd918D1a0241379E2",
+	"name": "Gains V2",
+	"symbol": "GFARM2",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x7075cAB6bCCA06613e2d071bd918D1a0241379E2.png"
+}, {
+	"chainId": 137,
+	"address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+	"name": "Aavegotchi GHST Token",
+	"symbol": "GHST",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7.png"
+}, {
+	"chainId": 137,
+	"address": "0xAF24765F631C8830B5528B57002241eE7eef1C14",
+	"name": "IOI Token",
+	"symbol": "IOI",
+	"decimals": 6,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xAF24765F631C8830B5528B57002241eE7eef1C14.png"
+}, {
+	"chainId": 137,
+	"address": "0xB9638272aD6998708de56BBC0A290a1dE534a578",
+	"name": "Everipedia IQ",
+	"symbol": "IQ",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xB9638272aD6998708de56BBC0A290a1dE534a578.png"
+}, {
+	"chainId": 137,
+	"address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
+	"name": "Krill",
+	"symbol": "Krill",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b.png"
+}, {
+	"chainId": 137,
+	"address": "0x313d009888329C9d1cf4f75CA3f32566335bd604",
+	"name": "EthLend Token",
+	"symbol": "LEND",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x313d009888329C9d1cf4f75CA3f32566335bd604.png"
+}, {
+	"chainId": 137,
+	"address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+	"name": "ChainLink Token",
+	"symbol": "LINK",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39.png"
+}, {
+	"chainId": 137,
+	"address": "0x823CD4264C1b951C9209aD0DeAea9988fE8429bF",
+	"name": "Matic Aave interest bearing AAVE",
+	"symbol": "maAAVE",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x823CD4264C1b951C9209aD0DeAea9988fE8429bF.png"
+}, {
+	"chainId": 137,
+	"address": "0xE0b22E0037B130A9F56bBb537684E6fA18192341",
+	"name": "Matic Aave interest bearing DAI",
+	"symbol": "maDAI",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xE0b22E0037B130A9F56bBb537684E6fA18192341.png"
+}, {
+	"chainId": 137,
+	"address": "0x98ea609569bD25119707451eF982b90E3eb719cD",
+	"name": "Matic Aave interest bearing LINK",
+	"symbol": "maLINK",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x98ea609569bD25119707451eF982b90E3eb719cD.png"
+}, {
+	"chainId": 137,
+	"address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+	"name": "Decentraland MANA",
+	"symbol": "MANA",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4.png"
+}, {
+	"chainId": 137,
+	"address": "0xF4b8888427b00d7caf21654408B7CBA2eCf4EbD9",
+	"name": "Matic Aave interest bearing TUSD",
+	"symbol": "maTUSD",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xF4b8888427b00d7caf21654408B7CBA2eCf4EbD9.png"
+}, {
+	"chainId": 137,
+	"address": "0x8c8bdBe9CeE455732525086264a4Bf9Cf821C498",
+	"name": "Matic Aave interest bearing UNI",
+	"symbol": "maUNI",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x8c8bdBe9CeE455732525086264a4Bf9Cf821C498.png"
+}, {
+	"chainId": 137,
+	"address": "0x9719d867A500Ef117cC201206B8ab51e794d3F82",
+	"name": "Matic Aave interest bearing USDC",
+	"symbol": "maUSDC",
+	"decimals": 6,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x9719d867A500Ef117cC201206B8ab51e794d3F82.png"
+}, {
+	"chainId": 137,
+	"address": "0xDAE5F1590db13E3B40423B5b5c5fbf175515910b",
+	"name": "Matic Aave interest bearing USDT",
+	"symbol": "maUSDT",
+	"decimals": 6,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xDAE5F1590db13E3B40423B5b5c5fbf175515910b.png"
+}, {
+	"chainId": 137,
+	"address": "0x20D3922b4a1A8560E1aC99FBA4faDe0c849e2142",
+	"name": "Matic Aave interest bearing WETH",
+	"symbol": "mas",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x20D3922b4a1A8560E1aC99FBA4faDe0c849e2142.png"
+}, {
+	"chainId": 137,
+	"address": "0xe20f7d1f0eC39C4d5DB01f53554F2EF54c71f613",
+	"name": "Matic Aave interest bearing YFI",
+	"symbol": "maYFI",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xe20f7d1f0eC39C4d5DB01f53554F2EF54c71f613.png"
+}, {
+	"chainId": 137,
+	"address": "0x82B6205002ecd05e97642D38D61e2cFeaC0E18cE",
+	"name": "Matic Deflect Protocol",
+	"symbol": "mDEF",
+	"decimals": 9,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x82B6205002ecd05e97642D38D61e2cFeaC0E18cE.png"
+}, {
+	"chainId": 137,
+	"address": "0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758",
+	"name": "Memecoin",
+	"symbol": "MEM",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758.png"
+}, {
+	"chainId": 137,
+	"address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+	"name": "miMATIC",
+	"symbol": "miMATIC",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1.png"
+}, {
+	"chainId": 137,
+	"address": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
+	"name": "Ocean Token",
+	"symbol": "mOCEAN",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x282d8efCe846A88B159800bd4130ad77443Fa1A1.png"
+}, {
+	"chainId": 137,
+	"address": "0x6968105460f67c3BF751bE7C15f92F5286Fd0CE5",
+	"name": "Monavale",
+	"symbol": "MONA",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x6968105460f67c3BF751bE7C15f92F5286Fd0CE5.png"
+}, {
+	"chainId": 137,
+	"address": "0xc56d17dD519e5eB43a19C9759b5D5372115220BD",
+	"name": "Polywolf",
+	"symbol": "MOON",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xc56d17dD519e5eB43a19C9759b5D5372115220BD.png"
+}, {
+	"chainId": 137,
+	"address": "0x66768ad00746aC4d68ded9f64886d55d5243f5Ec",
+	"name": "Matic Rebalance Token",
+	"symbol": "mRBAL",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x66768ad00746aC4d68ded9f64886d55d5243f5Ec.png"
+}, {
+	"chainId": 137,
+	"address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
+	"name": "Must",
+	"symbol": "MUST",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f.png"
+}, {
+	"chainId": 137,
+	"address": "0xf7d9e281c5Cb4C6796284C5b663b3593D2037aF2",
+	"name": "NFT Platform Index",
+	"symbol": "NFTP",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xf7d9e281c5Cb4C6796284C5b663b3593D2037aF2.png"
+}, {
+	"chainId": 137,
+	"address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
+	"name": "OM",
+	"symbol": "OM",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea.png"
+}, {
+	"chainId": 137,
+	"address": "0x7ff2FC33E161E3b1C6511B934F0209D304267857",
+	"name": "Opu Coin",
+	"symbol": "OPU",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x7ff2FC33E161E3b1C6511B934F0209D304267857.png"
+}, {
+	"chainId": 137,
+	"address": "0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
+	"name": "Orbit Bridge Polygon AUTOv2",
+	"symbol": "PAUTO",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf.png"
+}, {
+	"chainId": 137,
+	"address": "0x7e9928aFe96FefB820b85B4CE6597B8F660Fe4F4",
+	"name": "Orbit Bridge Polygon Binance Coin",
+	"symbol": "PBNB",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x7e9928aFe96FefB820b85B4CE6597B8F660Fe4F4.png"
+}, {
+	"chainId": 137,
+	"address": "0xe82808eaA78339b06a691fd92E1Be79671cAd8D3",
+	"name": "PLOT",
+	"symbol": "PLOT",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xe82808eaA78339b06a691fd92E1Be79671cAd8D3.png"
+}, {
+	"chainId": 137,
+	"address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+	"name": "PolyDoge",
+	"symbol": "PolyDoge",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x8A953CfE442c5E8855cc6c61b1293FA648BAE472.png"
+}, {
+	"chainId": 137,
+	"address": "0x127984b5E6d5c59f81DACc9F1C8b3Bdc8494572e",
+	"name": "Pepedex",
+	"symbol": "PPDEX",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x127984b5E6d5c59f81DACc9F1C8b3Bdc8494572e.png"
+}, {
+	"chainId": 137,
+	"address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+	"name": "Qi Dao",
+	"symbol": "QI",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x580A84C73811E1839F75d86d75d88cCa0c241fF4.png"
+}, {
+	"chainId": 137,
+	"address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+	"name": "Quickswap",
+	"symbol": "QUICK",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x831753DD7087CaC61aB5644b308642cc1c33Dc13.png"
+}, {
+	"chainId": 137,
+	"address": "0x99dA82C5464C49962Cdda44fe30d352Bc5Da0580",
+	"name": "QuickChart",
+	"symbol": "QuickChart",
+	"decimals": 9,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x99dA82C5464C49962Cdda44fe30d352Bc5Da0580.png"
+}, {
+	"chainId": 137,
+	"address": "0xaECeBfcF604AD245Eaf0D5BD68459C3a7A6399c2",
+	"name": "RAMP",
+	"symbol": "RAMP",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xaECeBfcF604AD245Eaf0D5BD68459C3a7A6399c2.png"
+}, {
+	"chainId": 137,
+	"address": "0x03247a4368A280bEc8133300cD930A3a61d604f6",
+	"name": "Rebalance Token",
+	"symbol": "RBAL",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x03247a4368A280bEc8133300cD930A3a61d604f6.png"
+}, {
+	"chainId": 137,
+	"address": "0xfC40a4F89b410a1b855b5e205064a38fC29F5eb5",
+	"name": "rUSD",
+	"symbol": "rUSD",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xfC40a4F89b410a1b855b5e205064a38fC29F5eb5.png"
+}, {
+	"chainId": 137,
+	"address": "0x26f6Cb841F9D4D72b68D7dCb6fDB5d6C832dD2A7",
+	"name": "polySAFU",
+	"symbol": "SAFU",
+	"decimals": 9,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x26f6Cb841F9D4D72b68D7dCb6fDB5d6C832dD2A7.png"
+}, {
+	"chainId": 137,
+	"address": "0x48e3883233461C2eF4cB3FcF419D6db07fb86CeA",
+	"name": "Sentinel",
+	"symbol": "SENT",
+	"decimals": 8,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x48e3883233461C2eF4cB3FcF419D6db07fb86CeA.png"
+}, {
+	"chainId": 137,
+	"address": "0x6Ccf12B480A99C54b23647c995f4525D544A7E72",
+	"name": "BSCstarter",
+	"symbol": "START",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x6Ccf12B480A99C54b23647c995f4525D544A7E72.png"
+}, {
+	"chainId": 137,
+	"address": "0xa1428174F516F527fafdD146b883bB4428682737",
+	"name": "SuperFarm",
+	"symbol": "SUPER",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xa1428174F516F527fafdD146b883bB4428682737.png"
+}, {
+	"chainId": 137,
+	"address": "0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F",
+	"name": "TrustSwap Token",
+	"symbol": "SWAP",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F.png"
+}, {
+	"chainId": 137,
+	"address": "0x043A3Aa319B563aC25D4E342d32bFfb51298DB7b",
+	"name": "Swirge",
+	"symbol": "SWG",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x043A3Aa319B563aC25D4E342d32bFfb51298DB7b.png"
+}, {
+	"chainId": 137,
+	"address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
+	"name": "SportX",
+	"symbol": "SX",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79.png"
+}, {
+	"chainId": 137,
+	"address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+	"name": "Telcoin",
+	"symbol": "TEL",
+	"decimals": 2,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32.png"
+}, {
+	"chainId": 137,
+	"address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
+	"name": "Unibright",
+	"symbol": "UBT",
+	"decimals": 8,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x7FBc10850caE055B27039aF31bD258430e714c62.png"
+}, {
+	"chainId": 137,
+	"address": "0x5B4CF2C120A9702225814E18543ee658c5f8631e",
+	"name": "UniLend Finance Token",
+	"symbol": "UFT",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x5B4CF2C120A9702225814E18543ee658c5f8631e.png"
+}, {
+	"chainId": 137,
+	"address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+	"name": "Uniswap",
+	"symbol": "UNI",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xb33EaAd8d922B1083446DC23f610c2567fB5180f.png"
+}, {
+	"chainId": 137,
+	"address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+	"name": "USD Coin",
+	"symbol": "USDC",
+	"decimals": 6,
+    "sorts": 2,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174.png"
+}, {
+	"chainId": 137,
+	"address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+	"name": "Tether USD",
+	"symbol": "USDT",
+	"decimals": 6,
+    "sorts": 1,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xc2132D05D31c914a87C6611C10748AEb04B58e8F.png"
+}, {
+	"chainId": 137,
+	"address": "0x034b2090b579228482520c589dbD397c53Fc51cC",
+	"name": "Vision Token",
+	"symbol": "VISION",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x034b2090b579228482520c589dbD397c53Fc51cC.png"
+}, {
+	"chainId": 137,
+	"address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+	"name": "Wrapped BTC",
+	"symbol": "WBTC",
+	"decimals": 8,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6.png"
+}, {
+	"chainId": 137,
+	"address": "0x87ff96aba480f1813aF5c780387d8De7cf7D8261",
+	"name": "Wrapped BUSD",
+	"symbol": "WBUSD",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x87ff96aba480f1813aF5c780387d8De7cf7D8261.png"
+}, {
+	"chainId": 137,
+	"address": "0xB77e62709e39aD1cbeEBE77cF493745AeC0F453a",
+	"name": "Wise Token",
+	"symbol": "WISE",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xB77e62709e39aD1cbeEBE77cF493745AeC0F453a.png"
+}, {
+	"chainId": 137,
+	"address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+	"name": "Wrapped Matic",
+	"symbol": "WMATIC",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270.png"
+}, {
+	"chainId": 137,
+	"address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+	"name": "moonwolf.io",
+	"symbol": "WOLF",
+	"decimals": 9,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16.png"
+}, {
+	"chainId": 137,
+	"address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+	"name": "Wootrade Network",
+	"symbol": "WOO",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603.png"
+}, {
+	"chainId": 137,
+	"address": "0x72d6066F486bd0052eefB9114B66ae40e0A6031a",
+	"name": "WazirX",
+	"symbol": "WRX",
+	"decimals": 8,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x72d6066F486bd0052eefB9114B66ae40e0A6031a.png"
+}, {
+	"chainId": 137,
+	"address": "0xf153EfF70DC0bf3b085134928daeEA248d9B30d0",
+	"name": "Standard",
+	"symbol": "xMARK",
+	"decimals": 9,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xf153EfF70DC0bf3b085134928daeEA248d9B30d0.png"
+}, {
+	"chainId": 137,
+	"address": "0xf7058856f405542cd660e8ce4751248F2d037f2B",
+	"name": "YAYO Coin",
+	"symbol": "YAYO",
+	"decimals": 4,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xf7058856f405542cd660e8ce4751248F2d037f2B.png"
+}, {
+	"chainId": 137,
+	"address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
+	"name": "yearn.finance",
+	"symbol": "YFI",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xDA537104D6A5edd53c6fBba9A898708E465260b6.png"
+}, {
+	"chainId": 137,
+	"address": "0xfd4959c06FbCc02250952DAEbf8e0Fb38cF9FD8C",
+	"name": "ZeroSwapToken",
+	"symbol": "ZEE",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xfd4959c06FbCc02250952DAEbf8e0Fb38cF9FD8C.png"
+}, {
+	"chainId": 137,
+	"address": "0xe86E8beb7340659DDDCE61727E500e3A5aD75a90",
+	"name": "ZeroUtility",
+	"symbol": "ZUT",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0xe86E8beb7340659DDDCE61727E500e3A5aD75a90.png"
+}, {
+	"chainId": 137,
+	"address": "0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad",
+	"name": "Zeus",
+	"symbol": "ZUZ",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/137/0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad.png"
+}]

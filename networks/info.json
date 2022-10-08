@@ -178,7 +178,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:8,
+	sorts:9,
 	color:"#53CBC8"
 },{
 	chainId: "1284",
@@ -196,7 +196,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:9,
+	sorts:10,
 	color:"#E1147B"
 },{
 	chainId: "42220",
@@ -214,7 +214,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:10,
+	sorts:11,
 	color:"#35D07F"
 },{
 	chainId: "122",
@@ -232,7 +232,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:11,
+	sorts:12,
 	color:"#35D07F"
 },{
 	chainId: "25",
@@ -250,6 +250,6 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:12,
+	sorts:13,
 	color:"#1E2022"
 }]

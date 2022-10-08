@@ -1,0 +1,65 @@
+[{
+	"chainId": 66,
+	"address": "0x",
+	"name": "OKXChain",
+	"symbol": "OKT",
+	"decimals": 18,
+	"sorts": 0,
+	"logoURI": "https://static.blackholelab.dev/icon/network/okx.svg"
+},{
+	"chainId": 66,
+	"address": "0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228",
+	"name": "FLUXK",
+	"symbol": "FLUX",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/66/0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228.png"
+}, {
+	"chainId": 66,
+	"address": "0x7A47ab305b8a2A3F4020d13FA9EF73cDdCc0e7D4",
+	"name": "Wing Token",
+	"symbol": "WING",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/66/0x7A47ab305b8a2A3F4020d13FA9EF73cDdCc0e7D4.png"
+}, {
+	"chainId": 66,
+	"address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
+	"name": "Nuls",
+	"symbol": "NULS",
+	"decimals": 8,
+	"logoURI": "https://static.blackholelab.dev/icon/token/66/0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B.png"
+}, {
+	"chainId": 66,
+	"address": "0xd1351Ec15E8511658C2Ba1e1e81e1E60aA39c9Cd",
+	"name": "NerveNetwork",
+	"symbol": "NVT",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/66/0xd1351Ec15E8511658C2Ba1e1e81e1E60aA39c9Cd.png"
+}, {
+	"chainId": 66,
+	"address": "0xaa27bADaa3C9ec9081b8f6C9cDd2bf375F143780",
+	"name": "SHIB",
+	"symbol": "SHIB",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/66/0xaa27bADaa3C9ec9081b8f6C9cDd2bf375F143780.png"
+}, {
+	"chainId": 66,
+	"address": "0x99970778E2715bBc9Cf8fb83D10dCBC2D2D551A3",
+	"name": "ETC",
+	"symbol": "ETC",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/66/0x99970778E2715bBc9Cf8fb83D10dCBC2D2D551A3.png"
+}, {
+	"chainId": 66,
+	"address": "0x506f731F7656e2FB34b587B912808f2a7aB640BD",
+	"name": "WBTC",
+	"symbol": "WBTC",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/66/0x506f731F7656e2FB34b587B912808f2a7aB640BD.png"
+}, {
+	"chainId": 66,
+	"address": "0x8D3573f24c0aa3819A2f5b02b2985dD82B487715",
+	"name": "DeFiner",
+	"symbol": "FIN",
+	"decimals": 18,
+	"logoURI": "https://static.blackholelab.dev/icon/token/66/0x8D3573f24c0aa3819A2f5b02b2985dD82B487715.png"
+}]
