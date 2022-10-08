@@ -17,7 +17,7 @@
 	gastype:"eip1559",
 	gasbase:"26",
 	sorts:0,
-	color:"#1969FF"
+	color:"#4188FF"
 	
 }, {
 	chainId: "56",
@@ -246,7 +246,7 @@
 	gastype:"base",
 	gasbase:"5",
 	sorts:11,
-	color:"#FFF16D"
+	color:"#B1FFBF"
 },{
 	chainId: "25",
 	name: "Cronos",
