@@ -246,7 +246,7 @@
 	gastype:"base",
 	gasbase:"5",
 	sorts:11,
-	color:"#B1FFBF"
+	color:"#35D07F"
 },{
 	chainId: "25",
 	name: "Cronos",
