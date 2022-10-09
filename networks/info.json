@@ -1,5 +1,19 @@
 
 [{
+	chainId: "-1",
+	name: "All",
+	rpc: "",
+	symbol: "",
+	decimal: 18,
+	explore: "",
+	muticall: "",
+	type: "evm",
+	selected: "1",
+	icon: "https://static.blackholelab.dev/icon/network/all.svg",
+	sorts:0,
+	color:"#5564ff"
+	
+},{
 	chainId: "1",
 	name: "Ethereum",
 	rpc: "https://rpc.ankr.com/eth",
@@ -8,14 +22,14 @@
 	explore: "http://etherscan.com/",
 	muticall: "",
 	type: "evm",
-	selected: "1",
+	selected: "0",
 	icon: "https://static.blackholelab.dev/icon/network/eth.svg",
 	gasurl:"http://8.219.149.218/gas/eth",
 	gasprice:"30",
 	gaslimit:"21000",
 	gastype:"eip1559",
 	gasbase:"26",
-	sorts:0,
+	sorts:1,
 	color:"#4188FF"
 	
 }, {
@@ -34,7 +48,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:1,
+	sorts:2,
 	color:"#F0B90B"
 },{
 	chainId: "137",
@@ -52,7 +66,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:2,
+	sorts:3,
 	color:"#7B3FE4"
 },{
 	chainId: "100",
@@ -70,7 +84,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:3,
+	sorts:4,
 	color:"#04795B"
 },{
 	chainId: "250",
@@ -88,7 +102,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:4,
+	sorts:5,
 	color:"#1969FF"
 },{
 	chainId: "66",
@@ -106,7 +120,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:5,
+	sorts:6,
 	color:"#000000"
 },{
 	chainId: "43114",
@@ -124,7 +138,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:6,
+	sorts:7,
 	color:"#E84142"
 },{
 	chainId: "42161",
@@ -142,7 +156,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:7,
+	sorts:8,
 	color:"#28A0F0"
 },{
 	chainId: "10",
@@ -160,7 +174,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:8,
+	sorts:9,
 	color:"#FF0420"
 },{
 	chainId: "1285",
@@ -178,7 +192,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:9,
+	sorts:10,
 	color:"#53CBC8"
 },{
 	chainId: "1284",
@@ -196,7 +210,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:10,
+	sorts:11,
 	color:"#E1147B"
 },{
 	chainId: "42220",
@@ -214,7 +228,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:11,
+	sorts:12,
 	color:"#35D07F"
 },{
 	chainId: "122",
@@ -232,7 +246,7 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:12,
+	sorts:13,
 	color:"#35D07F"
 },{
 	chainId: "25",
@@ -250,6 +264,6 @@
 	gaslimit:"21000",
 	gastype:"base",
 	gasbase:"5",
-	sorts:13,
+	sorts:14,
 	color:"#1E2022"
 }]
