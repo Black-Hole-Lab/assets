@@ -1,0 +1,73 @@
+[{
+	"chainId": 1,
+	"url": "https://app.uniswap.org/",
+	"name": "Uniswap",
+	"icon": "https://dashboard-assets.dappradar.com/document/4096/uniswapv2-dapp-exchanges-ethereum-logo-166x166_0552bee1a0328b38b11450d49b17621e.png",
+	"intr": "Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum.",
+	"hots":1,
+	"used":1,
+	"sorts": 0,
+	"type":"web"
+},
+{
+	"chainId": 1,
+	"url": "https://opensea.io/",
+	"name": "OpenSea",
+	"icon": "https://dashboard-assets.dappradar.com/document/13/opensea-dapp-marketplaces-ethereum-logo-166x166_f8aad6af2930b1edbeaee6457a505d1b.png",
+	"intr": "OpenSea is the first and largest peer-to-peer mark.",
+	"hots":1,
+	"used":1,
+	"sorts": 1,
+	"type":"web"
+},
+{
+	"chainId": 1,
+	"url": "https://www.0x.org/",
+	"name": "0x Protocol",
+	"icon": "https://dashboard-assets.dappradar.com/document/257/0xprotocol-dapp-other-eth-logo-166x166_c942b8b8612df62c04cbdf9ebca9c6aa.png",
+	"intr": "0x is an open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain.",
+	"hots":1,
+	"sorts": 2,
+	"type":"web"
+},
+{
+	"chainId": 1,
+	"url": "https://ens.domains/",
+	"name": "Ethereum Name Service",
+	"icon": "https://dashboard-assets.dappradar.com/document/264/ethereumnameservice-dapp-other-ethereum-logo-166x166_fe969395044dea1a0f7a38366ee36c98.png",
+	"intr": "Your web3 username, one name for all your crypto addresses, and decentralised websites.",
+	"hots":1,
+	"sorts": 3,
+	"type":"web"
+},
+{
+	"chainId": 1,
+	"url": "https://looksrare.org/",
+	"name": "LooksRare",
+	"icon": "https://dashboard-assets.dappradar.com/document/12792/looksrare-dapp-marketplaces-ethereum-logo-166x166_bbc005cc5cca2ab3d6428ad10e97b92b.png",
+	"intr": "LooksRare is the community-first NFT marketplace with rewards for participating.",
+	"hots":1,
+	"sorts": 4,
+	"type":"web"
+},
+{
+	"chainId": 1,
+	"url": "https://app.aave.com/",
+	"name": "Aave",
+	"icon": "https://dashboard-assets.dappradar.com/document/5243/aavev2-dapp-defi-ethereum-logo-166x166_e9c94de63d034dca94ed250bc2354267.png",
+	"intr": "Aave v2 improves many aspects over v1, opening up a vast new design space for developers to build products and services.",
+	"hots":1,
+	"used":1,
+	"sorts": 5,
+	"type":"web"
+},
+{
+	"chainId": 1,
+	"url": "https://curve.fi/",
+	"name": "Curve",
+	"icon": "https://dashboard-assets.dappradar.com/document/3551/curve-dapp-exchanges-eth-logo-166x166_db6dedbfb253bed6a0680ae7a3bff915.png",
+	"intr": "Exchange / DeFi savings tool for stablecoins",
+	"hots":1,
+	"sorts": 6,
+	"type":"web"
+}]

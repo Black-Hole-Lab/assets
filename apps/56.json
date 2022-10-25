@@ -1,0 +1,56 @@
+[{
+	"chainId": 56,
+	"url": "https://pancakeswap.finance/",
+	"name": "PancakeSwap",
+	"icon": "https://dashboard-assets.dappradar.com/document/4600/pancakeswap-dapp-defi-bsc-logo-166x166_783df04863220a6371e78725e2fa3320.png",
+	"intr": "The #1 AMM and yield farm on Binance Smart Chain.",
+	"hots":1,
+	"used":1,
+	"sorts": 0,
+	"type":"web"
+},{
+	"chainId": 56,
+	"url": "https://app.dodoex.io/",
+	"name": "DODO",
+	"icon": "https://dashboard-assets.dappradar.com/document/14738/dodo-dapp-exchanges-ethereum-logo-166x166_8ce6c9bccb9f280fffee15f01928acc4.png",
+	"intr": "DODO is a decentralized exchange platform powered by the Proactive Market Maker (PMM) algorithm.",
+	"hots":1,
+	"sorts": 1,
+	"type":"web"
+},{
+	"chainId": 56,
+	"url": "https://venus.io/",
+	"name": "Venus",
+	"icon": "https://dashboard-assets.dappradar.com/document/5189/venus-dapp-defi-bsc-logo-166x166_def1d8c0857d12ed76b89049f55e22c3.png",
+	"intr": "Venus is an algorithmic money market and stablecoin protocol.",
+	"hots":1,
+	"sorts": 2,
+	"type":"web"
+},{
+	"chainId": 56,
+	"url": "https://home.babyswap.finance/",
+	"name": "BabySwap",
+	"icon": "https://dashboard-assets.dappradar.com/document/7500/babyswap-dapp-exchanges-bsc-logo-166x166_bf38ff370de03a4d4ad18f37d7f9f080.png",
+	"intr": "A supportive Baby Metaverse including #AMM, #NFT, and #GameFi for newborn projects on #BSC. Go beyond the #DEX.",
+	"hots":1,
+	"sorts": 3,
+	"type":"web"
+},{
+	"chainId": 56,
+	"url": "https://www.mobox.io/",
+	"name": "Mobox",
+	"icon": "https://dashboard-assets.dappradar.com/document/6249/momonftfarmer-dapp-games-bsc-logo-166x166_a5766503c5711a16ec0f2d5b34d05a70.png",
+	"intr": "Yield Farm on the GO and watch your MOMO NFTs GROW.",
+	"hots":1,
+	"sorts": 4,
+	"type":"web"
+},{
+	"chainId": 56,
+	"url": "https://position.exchange/",
+	"name": "Position",
+	"icon": "https://dashboard-assets.dappradar.com/document/8922/positionexchange-dapp-defi-bsc-logo-166x166_c58baf63fd2bc9978790b479813bf861.png",
+	"intr": "The World's First Decentralized Trading Protocol with a whole Ecosystem. Trade on-chain Derivatives, Farm, Stake, Cast NFTs in a Community-driven project.",
+	"hots":1,
+	"sorts": 5,
+	"type":"web"
+}]
