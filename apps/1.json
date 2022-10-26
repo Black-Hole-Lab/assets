@@ -47,6 +47,7 @@
 	"icon": "https://dashboard-assets.dappradar.com/document/12792/looksrare-dapp-marketplaces-ethereum-logo-166x166_bbc005cc5cca2ab3d6428ad10e97b92b.png",
 	"intr": "LooksRare is the community-first NFT marketplace with rewards for participating.",
 	"hots":1,
+	"used":1,
 	"sorts": 4,
 	"type":"web"
 },
