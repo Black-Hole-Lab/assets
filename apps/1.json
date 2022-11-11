@@ -5,7 +5,7 @@
 	"name": "Uniswap",
 	"icon": "https://dashboard-assets.dappradar.com/document/4096/uniswapv2-dapp-exchanges-ethereum-logo-166x166_0552bee1a0328b38b11450d49b17621e.png",
 	"intr": "Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum.",
-	"hots":0,
+	"hots":1,
 	"used":1,
 	"sorts": 0,
 	"type":"web"
@@ -16,7 +16,7 @@
 	"name": "OpenSea",
 	"icon": "https://dashboard-assets.dappradar.com/document/13/opensea-dapp-marketplaces-ethereum-logo-166x166_f8aad6af2930b1edbeaee6457a505d1b.png",
 	"intr": "OpenSea is the first and largest peer-to-peer mark.",
-	"hots":0,
+	"hots":1,
 	"used":1,
 	"sorts": 1,
 	"type":"web"

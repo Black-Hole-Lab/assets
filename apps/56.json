@@ -4,7 +4,7 @@
 	"name": "PancakeSwap",
 	"icon": "https://dashboard-assets.dappradar.com/document/4600/pancakeswap-dapp-defi-bsc-logo-166x166_783df04863220a6371e78725e2fa3320.png",
 	"intr": "The #1 AMM and yield farm on Binance Smart Chain.",
-	"hots":0,
+	"hots":1,
 	"used":1,
 	"sorts": 0,
 	"type":"web"
