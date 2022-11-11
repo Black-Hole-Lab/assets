@@ -1,49 +1,5 @@
 [
 	{
-		"chainId": 1,
-		"url": "app://wallet/swap",
-		"name": "BitSwap",
-		"icon": "https://static.blackholelab.dev/icon/network/arbitrum.svg",
-		"intr": "Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum.",
-		"hots":1,
-		"used":1,
-		"sorts": 0,
-		"type":"app"
-	},
-	{
-		"chainId": 1,
-		"url": "app://wallet/sea",
-		"name": "BitSea",
-		"icon": "https://static.blackholelab.dev/icon/network/cronos.svg",
-		"intr": "Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum.",
-		"hots":1,
-		"used":1,
-		"sorts": 0,
-		"type":"app"
-	},
-	{
-		"chainId": 1,
-		"url": "app://wallet/appore",
-		"name": "ApporeCheck",
-		"icon": "https://static.blackholelab.dev/icon/network/fuse.svg",
-		"intr": "Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum.",
-		"hots":1,
-		"used":1,
-		"sorts": 0,
-		"type":"app"
-	},
-	{
-		"chainId": 1,
-		"url": "app://wallet/contract",
-		"name": "ContractCheck",
-		"icon": "https://static.blackholelab.dev/icon/network/gnosis.svg",
-		"intr": "Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum.",
-		"hots":1,
-		"used":1,
-		"sorts": 0,
-		"type":"app"
-	},
-	{
 	"chainId": 1,
 	"url": "https://app.uniswap.org/",
 	"name": "Uniswap",
